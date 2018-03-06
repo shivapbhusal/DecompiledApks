@@ -1,0 +1,78 @@
+Application Name: bgsuFun.apk
+Uses Permissions: android.permission.RECEIVE_BOOT_COMPLETED, android.permission.SYSTEM_ALERT_WINDOW
+
+Component com.dedett.qqzan.MainActivity
+  Component type: activity
+  Exported: true
+  Dynamic Registered: false
+  Required Permission: 
+  IntentFilters:
+    IntentFilter:(Actions:["android.intent.action.MAIN"],Categories:["android.intent.category.LAUNCHER"])
+
+  Inter-component communication (ICC) Result:
+    ICC call details are listed below:
+      Caller Procedure: Landroid/app/ContextImpl;.sendBroadcast:(Landroid/content/Intent;)V
+      Caller Context: (ADRTSender.sendLogcatLines,L004042)(ADRTLogCatReader.run,L003db8)
+      Outgoing Intents via this call:
+        Intent:
+          Actions:
+            com.adrt.LOGCAT_ENTRIES
+          Explicit: false
+          Precise: true
+    ICC call details are listed below:
+      Caller Procedure: Landroid/content/ContextWrapper;.startService:(Landroid/content/Intent;)Landroid/content/ComponentName;
+      Caller Context: (MainActivity.onCreate,L004866)(MainActivity.envMain,L9)
+      Outgoing Intents via this call:
+        Intent:
+          Component Names:
+            com.dedett.qqzan.Floatw
+          Explicit: true
+          Precise: true
+          ICC Targets:
+            com.dedett.qqzan.Floatw
+
+Component com.dedett.qqzan.Floatw
+  Component type: service
+  Exported: false
+  Dynamic Registered: false
+  Required Permission: 
+  IntentFilters:
+
+  Inter-component communication (ICC) Result:
+    ICC call details are listed below:
+      Caller Procedure: Landroid/app/ContextImpl;.sendBroadcast:(Landroid/content/Intent;)V
+      Caller Context: (ADRTSender.sendLogcatLines,L004042)(ADRTLogCatReader.run,L003db8)
+      Outgoing Intents via this call:
+        Intent:
+          Actions:
+            com.adrt.LOGCAT_ENTRIES
+          Explicit: false
+          Precise: true
+
+Component com.dedett.qqzan.BootBroadcastReceiver
+  Component type: receiver
+  Exported: true
+  Dynamic Registered: false
+  Required Permission: 
+  IntentFilters:
+    IntentFilter:(Actions:["android.intent.action.BOOT_COMPLETED"],Categories:["android.intent.category.HOME"])
+
+  Inter-component communication (ICC) Result:
+    ICC call details are listed below:
+      Caller Procedure: Landroid/content/ContextWrapper;.startActivity:(Landroid/content/Intent;)V
+      Caller Context: (BootBroadcastReceiver.onReceive,L00412e)(BootBroadcastReceiver.envMain,L54)
+      Outgoing Intents via this call:
+        Intent:
+          Component Names:
+            com.dedett.qqzan.MainActivity
+          Explicit: true
+          Precise: true
+          ICC Targets:
+            com.dedett.qqzan.MainActivity
+
+
+Taint analysis result:
+  Sources found:
+  Sinks found:
+    <Descriptors: api_sink: Landroid/app/ContextImpl;.sendBroadcast:(Landroid/content/Intent;)V 1>
+  Discovered taint paths are listed below:
