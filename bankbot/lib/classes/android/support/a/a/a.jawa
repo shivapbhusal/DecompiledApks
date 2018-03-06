@@ -1,0 +1,75 @@
+record `android.support.a.a.a` @kind class @AccessFlag ABSTRACT extends `android.graphics.drawable.Drawable` @kind class {
+  `android.graphics.drawable.Drawable` `android.support.a.a.a.q` @AccessFlag ;
+}
+procedure `void` `<init>`(`android.support.a.a.a` v0 @kind this) @signature `Landroid/support/a/a/a;.<init>:()V` @AccessFlag CONSTRUCTOR {
+
+  # return;
+}
+procedure `android.content.res.TypedArray` `w`(`android.content.res.Resources` v1 @kind object, `android.content.res.Resources$Theme` v2 @kind object, `android.util.AttributeSet` v3 @kind object, `int`[] v4 @kind object) @signature `Landroid/support/a/a/a;.w:(Landroid/content/res/Resources;Landroid/content/res/Resources$Theme;Landroid/util/AttributeSet;[I)Landroid/content/res/TypedArray;` @AccessFlag STATIC {
+
+  # return;
+}
+procedure `void` `clearColorFilter`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.clearColorFilter:()V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `getCurrent`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.getCurrent:()Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getMinimumHeight`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.getMinimumHeight:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getMinimumWidth`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.getMinimumWidth:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `getPadding`(`android.support.a.a.a` v1 @kind this, `android.graphics.Rect` v2 @kind object) @signature `Landroid/support/a/a/a;.getPadding:(Landroid/graphics/Rect;)Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int`[] `getState`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.getState:()[I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.Region` `getTransparentRegion`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.getTransparentRegion:()Landroid/graphics/Region;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `isAutoMirrored`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.isAutoMirrored:()Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `jumpToCurrentState`(`android.support.a.a.a` v1 @kind this) @signature `Landroid/support/a/a/a;.jumpToCurrentState:()V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `onBoundsChange`(`android.support.a.a.a` v1 @kind this, `android.graphics.Rect` v2 @kind object) @signature `Landroid/support/a/a/a;.onBoundsChange:(Landroid/graphics/Rect;)V` @AccessFlag PROTECTED {
+
+  # return;
+}
+procedure `boolean` `onLevelChange`(`android.support.a.a.a` v1 @kind this, `int` v2 ) @signature `Landroid/support/a/a/a;.onLevelChange:(I)Z` @AccessFlag PROTECTED {
+
+  # return;
+}
+procedure `void` `setAutoMirrored`(`android.support.a.a.a` v1 @kind this, `boolean` v2 ) @signature `Landroid/support/a/a/a;.setAutoMirrored:(Z)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `setChangingConfigurations`(`android.support.a.a.a` v1 @kind this, `int` v2 ) @signature `Landroid/support/a/a/a;.setChangingConfigurations:(I)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `setColorFilter`(`android.support.a.a.a` v1 @kind this, `int` v2 , `android.graphics.PorterDuff$Mode` v3 @kind object) @signature `Landroid/support/a/a/a;.setColorFilter:(ILandroid/graphics/PorterDuff$Mode;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `setFilterBitmap`(`android.support.a.a.a` v1 @kind this, `boolean` v2 ) @signature `Landroid/support/a/a/a;.setFilterBitmap:(Z)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `setState`(`android.support.a.a.a` v1 @kind this, `int`[] v2 @kind object) @signature `Landroid/support/a/a/a;.setState:([I)Z` @AccessFlag PUBLIC {
+
+  # return;
+}

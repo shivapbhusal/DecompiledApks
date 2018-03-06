@@ -1,0 +1,12 @@
+record `android.support.a.a.q` @kind class @AccessFlag  {
+}
+global `int`[] `@@android.support.a.a.q.e` @AccessFlag STATIC_FINAL;
+global `int`[] `@@android.support.a.a.q.q` @AccessFlag STATIC_FINAL;
+global `int`[] `@@android.support.a.a.q.r` @AccessFlag STATIC_FINAL;
+global `int`[] `@@android.support.a.a.q.t` @AccessFlag STATIC_FINAL;
+global `int`[] `@@android.support.a.a.q.w` @AccessFlag STATIC_FINAL;
+global `int`[] `@@android.support.a.a.q.y` @AccessFlag STATIC_FINAL;
+procedure `void` `<clinit>`() @signature `Landroid/support/a/a/q;.<clinit>:()V` @AccessFlag STATIC_CONSTRUCTOR {
+
+  # return;
+}

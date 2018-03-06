@@ -1,0 +1,25 @@
+record `android.support.a.a.j` @kind class @AccessFlag  {
+  `android.support.a.a.o`[] `android.support.a.a.j.d` @AccessFlag PROTECTED;
+  `java.lang.String` `android.support.a.a.j.f` @AccessFlag ;
+  `int` `android.support.a.a.j.g` @AccessFlag ;
+}
+procedure `void` `<init>`(`android.support.a.a.j` v1 @kind this) @signature `Landroid/support/a/a/j;.<init>:()V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.j` v1 @kind this, `android.support.a.a.j` v2 @kind object) @signature `Landroid/support/a/a/j;.<init>:(Landroid/support/a/a/j;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.j` v1 @kind this, `android.graphics.Path` v2 @kind object) @signature `Landroid/support/a/a/j;.q:(Landroid/graphics/Path;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `q`(`android.support.a.a.j` v1 @kind this) @signature `Landroid/support/a/a/j;.q:()Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `java.lang.String` `w`(`android.support.a.a.j` v1 @kind this) @signature `Landroid/support/a/a/j;.w:()Ljava/lang/String;` @AccessFlag PUBLIC {
+
+  # return;
+}

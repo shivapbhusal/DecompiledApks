@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HACK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="PREFS_NAME">AppPrefs</string>
+    <string name="PREFIX_ID">00152</string>
+    <string name="URL">http://37.1.207.115/api/?id=5</string>
+</resources>

@@ -1,0 +1,182 @@
+record `android.support.a.a.w` @kind class @AccessFlag PUBLIC extends `android.support.a.a.a` @kind class, `android.graphics.drawable.Animatable` @kind interface {
+  `android.content.Context` `android.support.a.a.w.e` @AccessFlag PRIVATE;
+  `android.animation.ArgbEvaluator` `android.support.a.a.w.r` @AccessFlag PRIVATE;
+  `android.graphics.drawable.Drawable$Callback` `android.support.a.a.w.t` @AccessFlag PRIVATE_FINAL;
+  `android.support.a.a.r` `android.support.a.a.w.w` @AccessFlag PRIVATE;
+}
+procedure `void` `<init>`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.<init>:()V` @AccessFlag PRIVATE_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.w` v1 @kind this, `android.content.Context` v2 @kind object) @signature `Landroid/support/a/a/w;.<init>:(Landroid/content/Context;)V` @AccessFlag PRIVATE_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.w` v2 @kind this, `android.content.Context` v3 @kind object, `android.support.a.a.r` v4 @kind object, `android.content.res.Resources` v5 @kind object) @signature `Landroid/support/a/a/w;.<init>:(Landroid/content/Context;Landroid/support/a/a/r;Landroid/content/res/Resources;)V` @AccessFlag PRIVATE_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.w` v0 @kind this, `android.support.a.a.e` v1 @kind object) @signature `Landroid/support/a/a/w;.<init>:(Landroid/support/a/a/e;)V` @AccessFlag SYNTHETIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `android.content.res.TypedArray` `q`(`android.content.res.Resources` v1 @kind object, `android.content.res.Resources$Theme` v2 @kind object, `android.util.AttributeSet` v3 @kind object, `int`[] v4 @kind object) @signature `Landroid/support/a/a/w;.q:(Landroid/content/res/Resources;Landroid/content/res/Resources$Theme;Landroid/util/AttributeSet;[I)Landroid/content/res/TypedArray;` @AccessFlag STATIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable$Callback` `q`(`android.support.a.a.w` v1 @kind object) @signature `Landroid/support/a/a/w;.q:(Landroid/support/a/a/w;)Landroid/graphics/drawable/Drawable$Callback;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `android.support.a.a.w` `q`(`android.content.Context` v1 @kind object, `android.content.res.Resources` v2 @kind object, `org.xmlpull.v1.XmlPullParser` v3 @kind object, `android.util.AttributeSet` v4 @kind object, `android.content.res.Resources$Theme` v5 @kind object) @signature `Landroid/support/a/a/w;.q:(Landroid/content/Context;Landroid/content/res/Resources;Lorg/xmlpull/v1/XmlPullParser;Landroid/util/AttributeSet;Landroid/content/res/Resources$Theme;)Landroid/support/a/a/w;` @AccessFlag PUBLIC_STATIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.w` v3 @kind this, `android.animation.Animator` v4 @kind object) @signature `Landroid/support/a/a/w;.q:(Landroid/animation/Animator;)V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.w` v2 @kind this, `java.lang.String` v3 @kind object, `android.animation.Animator` v4 @kind object) @signature `Landroid/support/a/a/w;.q:(Ljava/lang/String;Landroid/animation/Animator;)V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `boolean` `q`(`android.support.a.a.w` v5 @kind this) @signature `Landroid/support/a/a/w;.q:()Z` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `void` `clearColorFilter`(`android.support.a.a.w` v0 @kind this) @signature `Landroid/support/a/a/w;.clearColorFilter:()V` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `draw`(`android.support.a.a.w` v1 @kind this, `android.graphics.Canvas` v2 @kind object) @signature `Landroid/support/a/a/w;.draw:(Landroid/graphics/Canvas;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getAlpha`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getAlpha:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getChangingConfigurations`(`android.support.a.a.w` v2 @kind this) @signature `Landroid/support/a/a/w;.getChangingConfigurations:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable$ConstantState` `getConstantState`(`android.support.a.a.w` v2 @kind this) @signature `Landroid/support/a/a/w;.getConstantState:()Landroid/graphics/drawable/Drawable$ConstantState;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `getCurrent`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getCurrent:()Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `int` `getIntrinsicHeight`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getIntrinsicHeight:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getIntrinsicWidth`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getIntrinsicWidth:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getMinimumHeight`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getMinimumHeight:()I` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `int` `getMinimumWidth`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getMinimumWidth:()I` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `int` `getOpacity`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getOpacity:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `getPadding`(`android.support.a.a.w` v1 @kind this, `android.graphics.Rect` v2 @kind object) @signature `Landroid/support/a/a/w;.getPadding:(Landroid/graphics/Rect;)Z` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `int`[] `getState`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getState:()[I` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `android.graphics.Region` `getTransparentRegion`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.getTransparentRegion:()Landroid/graphics/Region;` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `inflate`(`android.support.a.a.w` v1 @kind this, `android.content.res.Resources` v2 @kind object, `org.xmlpull.v1.XmlPullParser` v3 @kind object, `android.util.AttributeSet` v4 @kind object) @signature `Landroid/support/a/a/w;.inflate:(Landroid/content/res/Resources;Lorg/xmlpull/v1/XmlPullParser;Landroid/util/AttributeSet;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `isAutoMirrored`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.isAutoMirrored:()Z` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `boolean` `isRunning`(`android.support.a.a.w` v5 @kind this) @signature `Landroid/support/a/a/w;.isRunning:()Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `isStateful`(`android.support.a.a.w` v1 @kind this) @signature `Landroid/support/a/a/w;.isStateful:()Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `jumpToCurrentState`(`android.support.a.a.w` v0 @kind this) @signature `Landroid/support/a/a/w;.jumpToCurrentState:()V` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `mutate`(`android.support.a.a.w` v2 @kind this) @signature `Landroid/support/a/a/w;.mutate:()Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `onBoundsChange`(`android.support.a.a.w` v1 @kind this, `android.graphics.Rect` v2 @kind object) @signature `Landroid/support/a/a/w;.onBoundsChange:(Landroid/graphics/Rect;)V` @AccessFlag PROTECTED {
+
+  # return;
+}
+procedure `boolean` `onLevelChange`(`android.support.a.a.w` v1 @kind this, `int` v2 ) @signature `Landroid/support/a/a/w;.onLevelChange:(I)Z` @AccessFlag PROTECTED {
+
+  # return;
+}
+procedure `boolean` `onStateChange`(`android.support.a.a.w` v1 @kind this, `int`[] v2 @kind object) @signature `Landroid/support/a/a/w;.onStateChange:([I)Z` @AccessFlag PROTECTED {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.w` v6 @kind this, `android.content.res.Resources` v7 @kind object, `org.xmlpull.v1.XmlPullParser` v8 @kind object, `android.util.AttributeSet` v9 @kind object, `android.content.res.Resources$Theme` v10 @kind object) @signature `Landroid/support/a/a/w;.q:(Landroid/content/res/Resources;Lorg/xmlpull/v1/XmlPullParser;Landroid/util/AttributeSet;Landroid/content/res/Resources$Theme;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `setAlpha`(`android.support.a.a.w` v1 @kind this, `int` v2 ) @signature `Landroid/support/a/a/w;.setAlpha:(I)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `setAutoMirrored`(`android.support.a.a.w` v0 @kind this, `boolean` v1 ) @signature `Landroid/support/a/a/w;.setAutoMirrored:(Z)V` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `setChangingConfigurations`(`android.support.a.a.w` v0 @kind this, `int` v1 ) @signature `Landroid/support/a/a/w;.setChangingConfigurations:(I)V` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `setColorFilter`(`android.support.a.a.w` v0 @kind this, `int` v1 , `android.graphics.PorterDuff$Mode` v2 @kind object) @signature `Landroid/support/a/a/w;.setColorFilter:(ILandroid/graphics/PorterDuff$Mode;)V` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `setColorFilter`(`android.support.a.a.w` v1 @kind this, `android.graphics.ColorFilter` v2 @kind object) @signature `Landroid/support/a/a/w;.setColorFilter:(Landroid/graphics/ColorFilter;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `setFilterBitmap`(`android.support.a.a.w` v0 @kind this, `boolean` v1 ) @signature `Landroid/support/a/a/w;.setFilterBitmap:(Z)V` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `boolean` `setState`(`android.support.a.a.w` v1 @kind this, `int`[] v2 @kind object) @signature `Landroid/support/a/a/w;.setState:([I)Z` @AccessFlag PUBLIC_SYNTHETIC {
+
+  # return;
+}
+procedure `boolean` `setVisible`(`android.support.a.a.w` v1 @kind this, `boolean` v2 , `boolean` v3 ) @signature `Landroid/support/a/a/w;.setVisible:(ZZ)Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `start`(`android.support.a.a.w` v4 @kind this) @signature `Landroid/support/a/a/w;.start:()V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `stop`(`android.support.a.a.w` v4 @kind this) @signature `Landroid/support/a/a/w;.stop:()V` @AccessFlag PUBLIC {
+
+  # return;
+}

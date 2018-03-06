@@ -1,0 +1,177 @@
+record `com.sistlias.esnioteh.q` @kind class @AccessFlag PUBLIC extends `dalvik.system.DexClassLoader` @kind class {
+  `int`[] `com.sistlias.esnioteh.q.a` @AccessFlag ;
+  `java.lang.String` `com.sistlias.esnioteh.q.d` @AccessFlag ;
+  `int`[] `com.sistlias.esnioteh.q.e` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.f` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.g` @AccessFlag ;
+  `java.lang.String` `com.sistlias.esnioteh.q.i` @AccessFlag ;
+  `int`[] `com.sistlias.esnioteh.q.o` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.p` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.q` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.r` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.s` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.t` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.u` @AccessFlag ;
+  `int`[] `com.sistlias.esnioteh.q.w` @AccessFlag ;
+  `int` `com.sistlias.esnioteh.q.y` @AccessFlag ;
+}
+global `java.lang.String`[] `@@com.sistlias.esnioteh.q.h` @AccessFlag PRIVATE_STATIC_FINAL;
+procedure `void` `<clinit>`() @signature `Lcom/sistlias/esnioteh/q;.<clinit>:()V` @AccessFlag STATIC_CONSTRUCTOR {
+    temp;
+    v0;
+    v1;
+    v2;
+
+  #L0e5e58.  v0:= 2I;
+  #L0e5e5a.  v0:= new `java.lang.String`[v0];
+  #L0e5e5e.  v1:= 0I;
+  #L0e5e60.  v2:= "C:\f<4X*\u0004!5I<\u000E\"" @kind object;
+  #L0e5e64.  call temp:= `q`(v2) @signature `Lcom/sistlias/esnioteh/q;.q:(Ljava/lang/String;)[C` @kind static;
+  #L0e5e6a.  v2:= temp @kind object;
+  #L0e5e6c.  call temp:= `q`(v2) @signature `Lcom/sistlias/esnioteh/q;.q:([C)Ljava/lang/String;` @kind static;
+  #L0e5e72.  v2:= temp @kind object;
+  #L0e5e74.  v0[v1]:= v2 @kind object;
+  #L0e5e78.  v1:= 1I;
+  #L0e5e7a.  v2:= "^7\u001D9+Es\f" @kind object;
+  #L0e5e7e.  call temp:= `q`(v2) @signature `Lcom/sistlias/esnioteh/q;.q:(Ljava/lang/String;)[C` @kind static;
+  #L0e5e84.  v2:= temp @kind object;
+  #L0e5e86.  call temp:= `q`(v2) @signature `Lcom/sistlias/esnioteh/q;.q:([C)Ljava/lang/String;` @kind static;
+  #L0e5e8c.  v2:= temp @kind object;
+  #L0e5e8e.  v0[v1]:= v2 @kind object;
+  #L0e5e92.  `@@com.sistlias.esnioteh.q.h` @type ^`java.lang.String`[] := v0 @kind object;
+  #L0e5e96.  return @kind void;
+}
+procedure `void` `<init>`(`com.sistlias.esnioteh.q` v4 @kind this, `java.lang.String` v5 @kind object, `java.lang.String` v6 @kind object, `java.lang.String` v7 @kind object, `java.lang.ClassLoader` v8 @kind object) @signature `Lcom/sistlias/esnioteh/q;.<init>:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/ClassLoader;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+    temp;
+    v0;
+    v1;
+    v2;
+    v3;
+
+  #L0e5ea8.  v3:= 1I;
+  #L0e5eaa.  v1:= 0I;
+  #L0e5eac.  call `<init>`(v4, v5, v6, v7, v8) @signature `Ldalvik/system/DexClassLoader;.<init>:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/ClassLoader;)V` @kind direct;
+  #L0e5eb2.  v0:= 11687I;
+  #L0e5eb6.  v4.`com.sistlias.esnioteh.q.q` @type ^`int` := v0;
+  #L0e5eba.  v0:= 5I;
+  #L0e5ebc.  v0:= new `int`[v0];
+  #L0e5ec0.  goto L0e5f84;
+  #L0e5ec6.  v4.`com.sistlias.esnioteh.q.w` @type ^`int`[] := v0 @kind object;
+  #L0e5eca.  v0:= 7I;
+  #L0e5ecc.  v0:= new `int`[v0];
+  #L0e5ed0.  goto L0e5fa0;
+  #L0e5ed6.  v4.`com.sistlias.esnioteh.q.e` @type ^`int`[] := v0 @kind object;
+  #L0e5eda.  v0:= 10278I;
+  #L0e5ede.  v4.`com.sistlias.esnioteh.q.r` @type ^`int` := v0;
+  #L0e5ee2.  v0:= 57I;
+  #L0e5ee6.  v4.`com.sistlias.esnioteh.q.t` @type ^`int` := v0;
+  #L0e5eea.  v0:= 61I;
+  #L0e5eee.  v4.`com.sistlias.esnioteh.q.y` @type ^`int` := v0;
+  #L0e5ef2.  v0:= 5151I;
+  #L0e5ef6.  v4.`com.sistlias.esnioteh.q.u` @type ^`int` := v0;
+  #L0e5efa.  v0:= `@@com.sistlias.esnioteh.q.h` @type ^`java.lang.String`[] @kind object;
+  #L0e5efe.  v0:= v0[v1] @kind object;
+  #L0e5f02.  v4.`com.sistlias.esnioteh.q.i` @type ^`java.lang.String` := v0 @kind object;
+  #L0e5f06.  v0:= new `int`[v1];
+  #L0e5f0a.  v4.`com.sistlias.esnioteh.q.o` @type ^`int`[] := v0 @kind object;
+  #L0e5f0e.  v0:= 68I;
+  #L0e5f12.  v4.`com.sistlias.esnioteh.q.p` @type ^`int` := v0;
+  #L0e5f16.  v0:= 6I;
+  #L0e5f18.  v0:= new `int`[v0];
+  #L0e5f1c.  goto L0e5fc4;
+  #L0e5f22.  v4.`com.sistlias.esnioteh.q.a` @type ^`int`[] := v0 @kind object;
+  #L0e5f26.  v0:= 18484I;
+  #L0e5f2a.  v4.`com.sistlias.esnioteh.q.s` @type ^`int` := v0;
+  #L0e5f2e.  v0:= `@@com.sistlias.esnioteh.q.h` @type ^`java.lang.String`[] @kind object;
+  #L0e5f32.  v0:= v0[v3] @kind object;
+  #L0e5f36.  v4.`com.sistlias.esnioteh.q.d` @type ^`java.lang.String` := v0 @kind object;
+  #L0e5f3a.  v0:= 73I;
+  #L0e5f3e.  v4.`com.sistlias.esnioteh.q.f` @type ^`int` := v0;
+  #L0e5f42.  v0:= 10I;
+  #L0e5f46.  v4.`com.sistlias.esnioteh.q.g` @type ^`int` := v0;
+  #L0e5f4a.  v0:= v4.`com.sistlias.esnioteh.q.p` @type ^`int`;
+  #L0e5f4e.  v0:= v0 + 7550;
+  #L0e5f52.  v1:= v4.`com.sistlias.esnioteh.q.g` @type ^`int`;
+  #L0e5f56.  v2:= v4.`com.sistlias.esnioteh.q.o` @type ^`int`[] @kind object;
+  #L0e5f5a.  v2:= length @variable v2;
+  #L0e5f5c.  v1:= v1 + v2 @kind int;
+  #L0e5f5e.  v0:= v0 + v1 @kind int;
+  #L0e5f60.  v1:= v4.`com.sistlias.esnioteh.q.s` @type ^`int`;
+  #L0e5f64.  v1:= v1 - 14099;
+  #L0e5f68.  v0:= v0 + v1 @kind int;
+  #L0e5f6a.  v4.`com.sistlias.esnioteh.q.y` @type ^`int` := v0;
+  #L0e5f6e.  v0:= v4.`com.sistlias.esnioteh.q.e` @type ^`int`[] @kind object;
+  #L0e5f72.  v1:= v4.`com.sistlias.esnioteh.q.w` @type ^`int`[] @kind object;
+  #L0e5f76.  v1:= length @variable v1;
+  #L0e5f78.  v1:= v1 + 88;
+  #L0e5f7c.  v0[v3]:= v1;
+  #L0e5f80.  return @kind void;
+  #L0e5f82.  
+  #L0e5f84.  v0:= (26I, 87I, 82I, 9313I, 10869I) @kind object;
+  #L0e5f9f.  goto L0e5ec6;
+  #L0e5fa0.  v0:= (4I, 69I, 40I, 81I, 92I, 10I, 2I) @kind object;
+  #L0e5fc3.  goto L0e5ed6;
+  #L0e5fc4.  v0:= (82I, 62I, 24I, 8696I, 8I, 27I) @kind object;
+  #L0e5fe3.  goto L0e5f22;
+}
+procedure `java.lang.String` `q`(`char`[] v4 @kind object) @signature `Lcom/sistlias/esnioteh/q;.q:([C)Ljava/lang/String;` @AccessFlag PRIVATE_STATIC {
+    temp;
+    v0;
+    v1;
+    v2;
+    v3;
+
+  #L0e5ff4.  v0:= length @variable v4;
+  #L0e5ff6.  v1:= 0I;
+  #L0e5ff8.  v2:= v1;
+  #L0e5ffa.  v1:= v0;
+  #L0e5ffc.  if v1 > v2 then goto L0e6014;
+  #L0e6000.  v0:= new `java.lang.String`;
+  #L0e6004.  call `<init>`(v0, v4) @signature `Ljava/lang/String;.<init>:([C)V` @kind direct;
+  #L0e600a.  call temp:= `intern`(v0) @signature `Ljava/lang/String;.intern:()Ljava/lang/String;` @kind virtual;
+  #L0e6010.  v0:= temp @kind object;
+  #L0e6012.  return v0 @kind object;
+  #L0e6014.  v3:= v4[v2] @kind char;
+  #L0e6018.  v0:= v2 %% 5;
+  #L0e601c.  goto L0e6050;
+  #L0e6022.  v0:= 88I;
+  #L0e6026.  v0:= v0 ^~ v3 @kind int;
+  #L0e6028.  v0:= (`char`) v0 @kind i2c;
+  #L0e602a.  v4[v2]:= v0 @kind char;
+  #L0e602e.  v0:= v2 + 1;
+  #L0e6032.  v2:= v0;
+  #L0e6034.  goto L0e5ffc;
+  #L0e6036.  v0:= 43I;
+  #L0e603a.  goto L0e6026;
+  #L0e603c.  v0:= 83I;
+  #L0e6040.  goto L0e6026;
+  #L0e6042.  v0:= 109I;
+  #L0e6046.  goto L0e6026;
+  #L0e6048.  v0:= 79I;
+  #L0e604c.  goto L0e6026;
+  #L0e604e.  
+  #L0e6050.  switch v0
+                  | 0 => goto L0e6036
+                  | 1 => goto L0e603c
+                  | 2 => goto L0e6042
+                  | 3 => goto L0e6048
+                  | else => goto L0e6022;
+}
+procedure `char`[] `q`(`java.lang.String` v3 @kind object) @signature `Lcom/sistlias/esnioteh/q;.q:(Ljava/lang/String;)[C` @AccessFlag PRIVATE_STATIC {
+    temp;
+    v0;
+    v1;
+    v2;
+
+  #L0e6078.  call temp:= `toCharArray`(v3) @signature `Ljava/lang/String;.toCharArray:()[C` @kind virtual;
+  #L0e607e.  v0:= temp @kind object;
+  #L0e6080.  v1:= length @variable v0;
+  #L0e6082.  v2:= 2I;
+  #L0e6084.  if v1 >= v2 then goto L0e6098;
+  #L0e6088.  v1:= 0I;
+  #L0e608a.  v2:= v0[v1] @kind char;
+  #L0e608e.  v2:= v2 ^~ 88;
+  #L0e6092.  v2:= (`char`) v2 @kind i2c;
+  #L0e6094.  v0[v1]:= v2 @kind char;
+  #L0e6098.  return v0 @kind object;
+}
