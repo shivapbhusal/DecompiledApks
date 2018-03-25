@@ -1,0 +1,39 @@
+record `android.support.a.a.g` @kind class @AccessFlag  extends `android.support.a.a.j` @kind class {
+  `android.graphics.Paint$Join` `android.support.a.a.g.a` @AccessFlag ;
+  `int` `android.support.a.a.g.e` @AccessFlag ;
+  `int`[] `android.support.a.a.g.h` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.g.i` @AccessFlag ;
+  `float` `android.support.a.a.g.o` @AccessFlag ;
+  `android.graphics.Paint$Cap` `android.support.a.a.g.p` @AccessFlag ;
+  `int` `android.support.a.a.g.q` @AccessFlag ;
+  `float` `android.support.a.a.g.r` @AccessFlag ;
+  `float` `android.support.a.a.g.s` @AccessFlag ;
+  `int` `android.support.a.a.g.t` @AccessFlag ;
+  `float` `android.support.a.a.g.u` @AccessFlag ;
+  `float` `android.support.a.a.g.w` @AccessFlag ;
+  `float` `android.support.a.a.g.y` @AccessFlag ;
+}
+procedure `void` `<init>`(`android.support.a.a.g` v3 @kind this) @signature `Landroid/support/a/a/g;.<init>:()V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.g` v3 @kind this, `android.support.a.a.g` v4 @kind object) @signature `Landroid/support/a/a/g;.<init>:(Landroid/support/a/a/g;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `android.graphics.Paint$Cap` `q`(`android.support.a.a.g` v0 @kind this, `int` v1 , `android.graphics.Paint$Cap` v2 @kind object) @signature `Landroid/support/a/a/g;.q:(ILandroid/graphics/Paint$Cap;)Landroid/graphics/Paint$Cap;` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `android.graphics.Paint$Join` `q`(`android.support.a.a.g` v0 @kind this, `int` v1 , `android.graphics.Paint$Join` v2 @kind object) @signature `Landroid/support/a/a/g;.q:(ILandroid/graphics/Paint$Join;)Landroid/graphics/Paint$Join;` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.g` v4 @kind this, `android.content.res.TypedArray` v5 @kind object, `org.xmlpull.v1.XmlPullParser` v6 @kind object) @signature `Landroid/support/a/a/g;.q:(Landroid/content/res/TypedArray;Lorg/xmlpull/v1/XmlPullParser;)V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.g` v1 @kind this, `android.content.res.Resources` v2 @kind object, `android.util.AttributeSet` v3 @kind object, `android.content.res.Resources$Theme` v4 @kind object, `org.xmlpull.v1.XmlPullParser` v5 @kind object) @signature `Landroid/support/a/a/g;.q:(Landroid/content/res/Resources;Landroid/util/AttributeSet;Landroid/content/res/Resources$Theme;Lorg/xmlpull/v1/XmlPullParser;)V` @AccessFlag PUBLIC {
+
+  # return;
+}

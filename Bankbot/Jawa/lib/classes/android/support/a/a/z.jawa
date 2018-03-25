@@ -1,0 +1,19 @@
+record `android.support.a.a.z` @kind class @AccessFlag  extends `android.graphics.drawable.Drawable$ConstantState` @kind class {
+  `android.graphics.drawable.Drawable$ConstantState` `android.support.a.a.z.q` @AccessFlag PRIVATE_FINAL;
+}
+procedure `void` `<init>`(`android.support.a.a.z` v0 @kind this, `android.graphics.drawable.Drawable$ConstantState` v1 @kind object) @signature `Landroid/support/a/a/z;.<init>:(Landroid/graphics/drawable/Drawable$ConstantState;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `int` `getChangingConfigurations`(`android.support.a.a.z` v1 @kind this) @signature `Landroid/support/a/a/z;.getChangingConfigurations:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `newDrawable`(`android.support.a.a.z` v2 @kind this) @signature `Landroid/support/a/a/z;.newDrawable:()Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `newDrawable`(`android.support.a.a.z` v2 @kind this, `android.content.res.Resources` v3 @kind object) @signature `Landroid/support/a/a/z;.newDrawable:(Landroid/content/res/Resources;)Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC {
+
+  # return;
+}

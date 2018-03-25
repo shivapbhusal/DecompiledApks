@@ -1,0 +1,86 @@
+record `android.support.a.a.k` @kind class @AccessFlag  {
+  `android.graphics.Matrix` `android.support.a.a.k.a` @AccessFlag PRIVATE_FINAL;
+  `android.graphics.Paint` `android.support.a.a.k.d` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.k.e` @AccessFlag ;
+  `android.graphics.PathMeasure` `android.support.a.a.k.f` @AccessFlag PRIVATE;
+  `int` `android.support.a.a.k.g` @AccessFlag PRIVATE;
+  `android.support.a.a.h` `android.support.a.a.k.h` @AccessFlag PRIVATE_FINAL;
+  `android.graphics.Path` `android.support.a.a.k.i` @AccessFlag PRIVATE_FINAL;
+  `android.graphics.Path` `android.support.a.a.k.o` @AccessFlag PRIVATE_FINAL;
+  `float` `android.support.a.a.k.q` @AccessFlag ;
+  `float` `android.support.a.a.k.r` @AccessFlag ;
+  `android.graphics.Paint` `android.support.a.a.k.s` @AccessFlag PRIVATE;
+  `int` `android.support.a.a.k.t` @AccessFlag ;
+  `android.support.v4.util.ArrayMap` `android.support.a.a.k.u` @AccessFlag FINAL;
+  `float` `android.support.a.a.k.w` @AccessFlag ;
+  `java.lang.String` `android.support.a.a.k.y` @AccessFlag ;
+}
+global `android.graphics.Matrix` `@@android.support.a.a.k.p` @AccessFlag PRIVATE_STATIC_FINAL;
+procedure `void` `<clinit>`() @signature `Landroid/support/a/a/k;.<clinit>:()V` @AccessFlag STATIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.k` v2 @kind this) @signature `Landroid/support/a/a/k;.<init>:()V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.k` v3 @kind this, `android.support.a.a.k` v4 @kind object) @signature `Landroid/support/a/a/k;.<init>:(Landroid/support/a/a/k;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `android.graphics.Paint` `e`(`android.support.a.a.k` v1 @kind object) @signature `Landroid/support/a/a/k;.e:(Landroid/support/a/a/k;)Landroid/graphics/Paint;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `float` `q`(`float` v2 , `float` v3 , `float` v4 , `float` v5 ) @signature `Landroid/support/a/a/k;.q:(FFFF)F` @AccessFlag PRIVATE_STATIC {
+
+  # return;
+}
+procedure `float` `q`(`android.support.a.a.k` v12 @kind this, `android.graphics.Matrix` v13 @kind object) @signature `Landroid/support/a/a/k;.q:(Landroid/graphics/Matrix;)F` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `android.graphics.Paint` `q`(`android.support.a.a.k` v0 @kind object, `android.graphics.Paint` v1 @kind object) @signature `Landroid/support/a/a/k;.q:(Landroid/support/a/a/k;Landroid/graphics/Paint;)Landroid/graphics/Paint;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `android.support.a.a.h` `q`(`android.support.a.a.k` v1 @kind object) @signature `Landroid/support/a/a/k;.q:(Landroid/support/a/a/k;)Landroid/support/a/a/h;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.k` v8 @kind this, `android.support.a.a.h` v9 @kind object, `android.graphics.Matrix` v10 @kind object, `android.graphics.Canvas` v11 @kind object, `int` v12 , `int` v13 , `android.graphics.ColorFilter` v14 @kind object) @signature `Landroid/support/a/a/k;.q:(Landroid/support/a/a/h;Landroid/graphics/Matrix;Landroid/graphics/Canvas;IILandroid/graphics/ColorFilter;)V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.k` v8 @kind this, `android.support.a.a.h` v9 @kind object, `android.support.a.a.j` v10 @kind object, `android.graphics.Canvas` v11 @kind object, `int` v12 , `int` v13 , `android.graphics.ColorFilter` v14 @kind object) @signature `Landroid/support/a/a/k;.q:(Landroid/support/a/a/h;Landroid/support/a/a/j;Landroid/graphics/Canvas;IILandroid/graphics/ColorFilter;)V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `android.graphics.Paint` `w`(`android.support.a.a.k` v1 @kind object) @signature `Landroid/support/a/a/k;.w:(Landroid/support/a/a/k;)Landroid/graphics/Paint;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `android.graphics.Paint` `w`(`android.support.a.a.k` v0 @kind object, `android.graphics.Paint` v1 @kind object) @signature `Landroid/support/a/a/k;.w:(Landroid/support/a/a/k;Landroid/graphics/Paint;)Landroid/graphics/Paint;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `int` `q`(`android.support.a.a.k` v1 @kind this) @signature `Landroid/support/a/a/k;.q:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.k` v1 @kind this, `float` v2 ) @signature `Landroid/support/a/a/k;.q:(F)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.k` v0 @kind this, `int` v1 ) @signature `Landroid/support/a/a/k;.q:(I)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.k` v7 @kind this, `android.graphics.Canvas` v8 @kind object, `int` v9 , `int` v10 , `android.graphics.ColorFilter` v11 @kind object) @signature `Landroid/support/a/a/k;.q:(Landroid/graphics/Canvas;IILandroid/graphics/ColorFilter;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `float` `w`(`android.support.a.a.k` v2 @kind this) @signature `Landroid/support/a/a/k;.w:()F` @AccessFlag PUBLIC {
+
+  # return;
+}

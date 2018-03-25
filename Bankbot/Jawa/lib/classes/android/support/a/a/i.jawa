@@ -1,0 +1,12 @@
+record `android.support.a.a.i` @kind class @AccessFlag  {
+  `int` `android.support.a.a.i.q` @AccessFlag ;
+  `boolean` `android.support.a.a.i.w` @AccessFlag ;
+}
+procedure `void` `<init>`(`android.support.a.a.i` v0 @kind this) @signature `Landroid/support/a/a/i;.<init>:()V` @AccessFlag PRIVATE_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.i` v0 @kind this, `android.support.a.a.u` v1 @kind object) @signature `Landroid/support/a/a/i;.<init>:(Landroid/support/a/a/u;)V` @AccessFlag SYNTHETIC_CONSTRUCTOR {
+
+  # return;
+}

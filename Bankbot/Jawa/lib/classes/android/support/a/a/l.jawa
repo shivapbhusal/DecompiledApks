@@ -1,0 +1,66 @@
+record `android.support.a.a.l` @kind class @AccessFlag  extends `android.graphics.drawable.Drawable$ConstantState` @kind class {
+  `boolean` `android.support.a.a.l.a` @AccessFlag ;
+  `android.content.res.ColorStateList` `android.support.a.a.l.e` @AccessFlag ;
+  `android.graphics.PorterDuff$Mode` `android.support.a.a.l.i` @AccessFlag ;
+  `int` `android.support.a.a.l.o` @AccessFlag ;
+  `boolean` `android.support.a.a.l.p` @AccessFlag ;
+  `int` `android.support.a.a.l.q` @AccessFlag ;
+  `android.graphics.PorterDuff$Mode` `android.support.a.a.l.r` @AccessFlag ;
+  `android.graphics.Paint` `android.support.a.a.l.s` @AccessFlag ;
+  `boolean` `android.support.a.a.l.t` @AccessFlag ;
+  `android.content.res.ColorStateList` `android.support.a.a.l.u` @AccessFlag ;
+  `android.support.a.a.k` `android.support.a.a.l.w` @AccessFlag ;
+  `android.graphics.Bitmap` `android.support.a.a.l.y` @AccessFlag ;
+}
+procedure `void` `<init>`(`android.support.a.a.l` v1 @kind this) @signature `Landroid/support/a/a/l;.<init>:()V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.l` v3 @kind this, `android.support.a.a.l` v4 @kind object) @signature `Landroid/support/a/a/l;.<init>:(Landroid/support/a/a/l;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `e`(`android.support.a.a.l` v1 @kind this) @signature `Landroid/support/a/a/l;.e:()V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `e`(`android.support.a.a.l` v1 @kind this, `int` v2 , `int` v3 ) @signature `Landroid/support/a/a/l;.e:(II)Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `int` `getChangingConfigurations`(`android.support.a.a.l` v1 @kind this) @signature `Landroid/support/a/a/l;.getChangingConfigurations:()I` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `newDrawable`(`android.support.a.a.l` v2 @kind this) @signature `Landroid/support/a/a/l;.newDrawable:()Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.drawable.Drawable` `newDrawable`(`android.support.a.a.l` v2 @kind this, `android.content.res.Resources` v3 @kind object) @signature `Landroid/support/a/a/l;.newDrawable:(Landroid/content/res/Resources;)Landroid/graphics/drawable/Drawable;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `android.graphics.Paint` `q`(`android.support.a.a.l` v2 @kind this, `android.graphics.ColorFilter` v3 @kind object) @signature `Landroid/support/a/a/l;.q:(Landroid/graphics/ColorFilter;)Landroid/graphics/Paint;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.l` v3 @kind this, `int` v4 , `int` v5 ) @signature `Landroid/support/a/a/l;.q:(II)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.l` v3 @kind this, `android.graphics.Canvas` v4 @kind object, `android.graphics.ColorFilter` v5 @kind object, `android.graphics.Rect` v6 @kind object) @signature `Landroid/support/a/a/l;.q:(Landroid/graphics/Canvas;Landroid/graphics/ColorFilter;Landroid/graphics/Rect;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `q`(`android.support.a.a.l` v2 @kind this) @signature `Landroid/support/a/a/l;.q:()Z` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `w`(`android.support.a.a.l` v1 @kind this, `int` v2 , `int` v3 ) @signature `Landroid/support/a/a/l;.w:(II)V` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `boolean` `w`(`android.support.a.a.l` v2 @kind this) @signature `Landroid/support/a/a/l;.w:()Z` @AccessFlag PUBLIC {
+
+  # return;
+}

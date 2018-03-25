@@ -1,0 +1,51 @@
+record `android.support.a.a.h` @kind class @AccessFlag  {
+  `int` `android.support.a.a.h.a` @AccessFlag PRIVATE;
+  `java.lang.String` `android.support.a.a.h.d` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.h.e` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.h.i` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.h.o` @AccessFlag PRIVATE;
+  `android.graphics.Matrix` `android.support.a.a.h.p` @AccessFlag PRIVATE_FINAL;
+  `java.util.ArrayList` `android.support.a.a.h.q` @AccessFlag FINAL;
+  `float` `android.support.a.a.h.r` @AccessFlag PRIVATE;
+  `int`[] `android.support.a.a.h.s` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.h.t` @AccessFlag PRIVATE;
+  `float` `android.support.a.a.h.u` @AccessFlag PRIVATE;
+  `android.graphics.Matrix` `android.support.a.a.h.w` @AccessFlag PRIVATE_FINAL;
+  `float` `android.support.a.a.h.y` @AccessFlag PRIVATE;
+}
+procedure `void` `<init>`(`android.support.a.a.h` v3 @kind this) @signature `Landroid/support/a/a/h;.<init>:()V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `void` `<init>`(`android.support.a.a.h` v5 @kind this, `android.support.a.a.h` v6 @kind object, `android.support.v4.util.ArrayMap` v7 @kind object) @signature `Landroid/support/a/a/h;.<init>:(Landroid/support/a/a/h;Landroid/support/v4/util/ArrayMap;)V` @AccessFlag PUBLIC_CONSTRUCTOR {
+
+  # return;
+}
+procedure `android.graphics.Matrix` `e`(`android.support.a.a.h` v1 @kind object) @signature `Landroid/support/a/a/h;.e:(Landroid/support/a/a/h;)Landroid/graphics/Matrix;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `int` `q`(`android.support.a.a.h` v1 @kind object) @signature `Landroid/support/a/a/h;.q:(Landroid/support/a/a/h;)I` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.h` v3 @kind this, `android.content.res.TypedArray` v4 @kind object, `org.xmlpull.v1.XmlPullParser` v5 @kind object) @signature `Landroid/support/a/a/h;.q:(Landroid/content/res/TypedArray;Lorg/xmlpull/v1/XmlPullParser;)V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `android.graphics.Matrix` `w`(`android.support.a.a.h` v1 @kind object) @signature `Landroid/support/a/a/h;.w:(Landroid/support/a/a/h;)Landroid/graphics/Matrix;` @AccessFlag STATIC_SYNTHETIC {
+
+  # return;
+}
+procedure `void` `w`(`android.support.a.a.h` v4 @kind this) @signature `Landroid/support/a/a/h;.w:()V` @AccessFlag PRIVATE {
+
+  # return;
+}
+procedure `java.lang.String` `q`(`android.support.a.a.h` v1 @kind this) @signature `Landroid/support/a/a/h;.q:()Ljava/lang/String;` @AccessFlag PUBLIC {
+
+  # return;
+}
+procedure `void` `q`(`android.support.a.a.h` v1 @kind this, `android.content.res.Resources` v2 @kind object, `android.util.AttributeSet` v3 @kind object, `android.content.res.Resources$Theme` v4 @kind object, `org.xmlpull.v1.XmlPullParser` v5 @kind object) @signature `Landroid/support/a/a/h;.q:(Landroid/content/res/Resources;Landroid/util/AttributeSet;Landroid/content/res/Resources$Theme;Lorg/xmlpull/v1/XmlPullParser;)V` @AccessFlag PUBLIC {
+
+  # return;
+}
